@@ -1,0 +1,319 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"magri",
+				"margin-right"
+			],
+			[
+				"h",
+				"h2"
+			],
+			[
+				"font",
+				"font-size"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "AVT 217/Baez_Protect1/IndexP1.html",
+			"settings":
+			{
+				"buffer_size": 669,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAJwCAAAAAAAAnQIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAnAIAAAAAAACcAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					4,
+					1,
+					"paste",
+					null,
+					"AQAAAJ0CAAAAAAAAqwIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAnQIAAAAAAACdAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					7,
+					1,
+					"left_delete",
+					null,
+					"AQAAAJ0CAAAAAAAAnQIAAAAAAAAOAAAAUG9ydGZvbGlvLmh0bWw",
+					"AQAAAAAAAAABAAAAqwIAAAAAAACdAgAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "AVT 217/Baez_Protect1/styleP1.css",
+			"settings":
+			{
+				"buffer_size": 1668,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/cathz/OneDrive/Desktop/AVT 217/Exercise 7/style.css",
+		"/C/Users/cathz/OneDrive/Desktop/AVT 217/Exercise 1/Baez_Dezzy_e1.html",
+		"/C/Users/cathz/OneDrive/Desktop/AVT 217/Portfolio/BDPortCss.css",
+		"/C/Users/cathz/OneDrive/Desktop/AVT 217/Portfolio/Index_01.html",
+		"/C/Users/cathz/OneDrive/Desktop/AVT 217/Exercise_4/Home.png",
+		"/C/Users/cathz/OneDrive/Desktop/AVT 217/Exercise 1/Baez_Dezzy_e1 (2).html",
+		"/C/Users/cathz/OneDrive/Desktop/AVT 217/Exercise 7/Baez_Dezzy_e7.html",
+		"/C/Users/cathz/OneDrive/Desktop/AVT 217/Exercise 7/BD_style-E7.css",
+		"/C/Users/cathz/OneDrive/Desktop/Baez_D_EX1.html",
+		"/C/Users/cathz/OneDrive/Desktop/AVT 217/Baez_Protect1/style2P1.css",
+		"/C/Users/cathz/OneDrive/Desktop/AVT 217/Baez_Protect1/page4P1.html",
+		"/C/Users/cathz/OneDrive/Desktop/AVT 217/Baez_Protect1/styleP1.css",
+		"/C/Users/cathz/OneDrive/Desktop/AVT 217/Baez_Protect1/page10P1.html",
+		"/C/Users/cathz/OneDrive/Desktop/AVT 217/Baez_Protect1/page9p1.html",
+		"/C/Users/cathz/OneDrive/Desktop/AVT 217/Baez_Protect1/page8P1.html",
+		"/C/Users/cathz/OneDrive/Desktop/AVT 217/Baez_Protect1/page7P1.html",
+		"/C/Users/cathz/OneDrive/Desktop/AVT 217/Baez_Protect1/page6P1.html",
+		"/C/Users/cathz/OneDrive/Desktop/AVT 217/Baez_Protect1/page2P1.html",
+		"/C/Users/cathz/OneDrive/Desktop/AVT 217/Baez_Protect1/page3P1.html",
+		"/C/Users/cathz/OneDrive/Desktop/AVT 217/Baez_Protect1/page5P1.html",
+		"/C/Users/cathz/OneDrive/Desktop/AVT 217/Baez_Protect1/page1P1.html",
+		"/C/Users/cathz/OneDrive/Desktop/AVT 217/Baez_Protect1/IndexP1.html",
+		"/C/Users/cathz/OneDrive/Desktop/Baez_Protect1/page2P1.html",
+		"/C/Users/cathz/OneDrive/Desktop/style.css",
+		"/C/Users/cathz/OneDrive/Desktop/Baez_Dezzy_e7.html",
+		"/C/Users/cathz/OneDrive/Documents/Baez_Dezzy_e1.html"
+	],
+	"find":
+	{
+		"height": 47.0
+	},
+	"find_in_files":
+	{
+		"height": 122.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"-->\n",
+			"20217",
+			"h5"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "AVT 217/Baez_Protect1/IndexP1.html",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 669,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								669,
+								669
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "AVT 217/Baez_Protect1/styleP1.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1668,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1247,
+								1668
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 714.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 47.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"pinned_build_system": "",
+	"project": "Baez_D_EX1.html",
+	"replace":
+	{
+		"height": 90.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
